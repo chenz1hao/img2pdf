@@ -8,4 +8,4 @@ A simple tool to convert images to pdf with GUI
 ##### 2. no pictures in folder(image)
 ##### 3. invalid image exists
 ##### 4. target file(output.pdf) is occupying by user
-![gui]("https://raw.githubusercontent.com/czhiemma/img2pdf/main/GUI.jpg")
+![gui](https://raw.githubusercontent.com/czhiemma/img2pdf/main/GUI.jpg)
